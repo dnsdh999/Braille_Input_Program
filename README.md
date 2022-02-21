@@ -1,4 +1,4 @@
-## Braille_Input_Program
+# Braille_Input_Program
 C++ 언어로 구현된 점자입력프로그램입니다.
 
 개발 기간 : 2020년 2월 11일 ~ 2020년 2월 19일
